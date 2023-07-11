@@ -4,6 +4,9 @@ Lista de dependencias presentes en el archivo package.json y una breve descripci
 
 dotenv: Permite cargar variables de entorno desde un archivo .env.
 express: Framework web rápido y minimalista para Node.js.
+swagger: Herramienta para diseñar, documentar y consumir APIs RESTful de manera más eficiente y efectiva. Facilita la colaboración entre equipos de desarrollo, mejora la calidad de la documentación y acelera el proceso de desarrollo al generar clientes de forma automática.
+helmet: Ayuda a proteger la aplicación Express configurando varios encabezados HTTP relacionados con la seguridad.
+mongoose: ODM (Object-Document Mapping) de MongoDB para Node.js, que facilita la interacción con la base de datos MongoDB.
 
 2. Scripts de NPM:
 
